@@ -26,7 +26,7 @@ Name of the project: *Website xem phim Twoone*
 
 ### Use case summary
 
-<img src="source\Usecasetq.png" style="zoom:60%" alt="usecase" />
+<img src="website_to_register_to_buy_movie_tickets\source\Usecasetq.png" style="zoom:60%" alt="usecase" />
 
 ## Requirements
 - C# 
