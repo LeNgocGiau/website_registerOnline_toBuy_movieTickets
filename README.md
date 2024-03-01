@@ -110,10 +110,10 @@ Above is all of function we made
 
 Any question you can contact with us
 
-email: vothuongtruongnhon2002@gmail.com
-        lengocgiau2k3@gmail.com
-        Phamductai2k3@gmail.com
-        PHThaiNT@gmail.com
+email: - vothuongtruongnhon2002@gmail.com
+        - lengocgiau2k3@gmail.com
+        - Phamductai2k3@gmail.com
+        - PHThaiNT@gmail.com
 
 Author:
 
